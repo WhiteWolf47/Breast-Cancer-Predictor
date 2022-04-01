@@ -1,3 +1,3 @@
-Breast Cancer Predictions using XGBClassifer.
+# Breast Cancer Predictions using XGBClassifer.
 
-Folllow the given notebook to replicate the outputs
+**Folllow the given notebook to replicate the outputs**
